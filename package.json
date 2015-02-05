@@ -4,6 +4,7 @@
   "description": "a sudoku app written in angularJS",
   "main": "appServer.js",
   "scripts": {
+    "start": "node api/server.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
