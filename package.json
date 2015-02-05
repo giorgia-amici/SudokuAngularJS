@@ -15,5 +15,10 @@
   "bugs": {
     "url": "https://github.com/giorgia-amici/SudokuAngularJS/issues"
   },
-  "homepage": "https://github.com/giorgia-amici/SudokuAngularJS"
+  "homepage": "https://github.com/giorgia-amici/SudokuAngularJS",
+  "devDependencies": {
+    "jasmine-core": "^2.2.0",
+    "karma-chrome-launcher": "^0.1.7",
+    "karma-jasmine": "^0.3.5"
+  }
 }
