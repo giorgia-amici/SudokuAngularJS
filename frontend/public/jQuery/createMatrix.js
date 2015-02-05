@@ -17,3 +17,11 @@ insertRows()
 // 	}	
 // }
 
+			// for (j = 0; j < input[i].length; j += 1) {
+			// 	input[i][j] = (input[i][j] === '-' || input[i][j] === null) ? null : Number(input[i][j]);
+
+
+			 // this.matrix = new Array(81);
+			 // for (var i = 0; i < 9; i++)
+                // for (var j = 0; j < 9; j++)
+                    // matrix[i * 9 + j] = (i * 3 + Math.floor(i / 3) + j) % 9 + 1;
