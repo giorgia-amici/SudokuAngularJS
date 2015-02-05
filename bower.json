@@ -1,0 +1,17 @@
+{
+  "name": "Sudoku",
+  "version": "0.0.0",
+  "homepage": "https://github.com/giorgia-amici/SudokuAngularJS",
+  "authors": [
+    "Giorgia <giorgia1london@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "frontend/public/bower_components",
+    "test",
+    "tests"
+  ]
+}

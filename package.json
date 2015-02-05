@@ -1,0 +1,19 @@
+{
+  "name": "Sudoku",
+  "version": "1.0.0",
+  "description": "a sudoku app written in angularJS",
+  "main": "appServer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/giorgia-amici/SudokuAngularJS.git"
+  },
+  "author": "giorgia amici",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/giorgia-amici/SudokuAngularJS/issues"
+  },
+  "homepage": "https://github.com/giorgia-amici/SudokuAngularJS"
+}
