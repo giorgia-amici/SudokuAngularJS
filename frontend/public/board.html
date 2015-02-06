@@ -3,12 +3,15 @@
 <head>
 	<title> SUDOKU </title>
 </head>
-<body>
+<body ng-app='sudoku'>
 <h1> WELCOME TO THE UTLIMATE SUDOKU </h1>
-	<table id="myTable" border="2"></table>
+	<table id="myTable" border="2" ng-controller="createBoard"></table>
 
 
 </body>
 <script src = "jQuery/createMatrix.js"></script>
 <script src="//cdnjs.cloudflare.com/ajax/libs/less.js/2.3.1/less.min.js"></script>
+<script src="/bower_components/angular/angular.js"></script>
+<script src="./angular/app.js"></script>
+<script src="./angular/controllers/boardController.js"></script>
 </html>
