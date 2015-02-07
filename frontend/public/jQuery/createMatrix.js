@@ -10,6 +10,7 @@ var insertRows = function(){
 }
 insertRows()
 
+
 // var createCells = function(){
 // 	for(var i=0; i < 9; i++ ){
 // 		var cellNum = "cell" + i
@@ -23,5 +24,5 @@ insertRows()
 
 			 // this.matrix = new Array(81);
 			 // for (var i = 0; i < 9; i++)
-                // for (var j = 0; j < 9; j++)
-                    // matrix[i * 9 + j] = (i * 3 + Math.floor(i / 3) + j) % 9 + 1;
+         // for (var j = 0; j < 9; j++)
+      // matrix[i * 9 + j] = (i * 3 + Math.floor(i / 3) + j) % 9 + 1;

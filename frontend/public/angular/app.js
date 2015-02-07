@@ -1,1 +1,1 @@
-app.js
+var sudoku = angular.module('sudoku', []);
