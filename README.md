@@ -12,3 +12,4 @@ bower install angular / jquery/ bootstrap
 
 CREATE FOLDER STRUCTURE
 
+install karma
